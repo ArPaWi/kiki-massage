@@ -9,7 +9,7 @@ import Pesan from "./Components/pesan";
 export default function Home() {
   const handleContactClick = () => {
     const whatsappLink =
-      "https://api.whatsapp.com/send?phone=6281210390991&text=Halo%20Pak%20Rizki,%20saya%20mau%20bertanya%20tentang%20terapi.";
+      "https://api.whatsapp.com/send?phone=6282396663371&text=Halo%20Kak%20Ela,%20saya%20ingin%20menanyakan%20perihal%20terapi.";
     window.open(whatsappLink, "_blank");
   };
 
