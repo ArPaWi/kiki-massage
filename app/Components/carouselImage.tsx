@@ -1,11 +1,11 @@
 "use client";
 import { Slide } from 'react-slideshow-image';
 import 'react-slideshow-image/dist/styles.css';
-const carousel1 = "/image.png";
-const carousel2 = "/image1.png";
-const carousel3 = "/image2.png";
-const carousel4 = "/image3.png";
-const carousel5 = "/image4.png";
+const carousel1 = "/3header.png";
+const carousel2 = "/2header.png";
+const carousel3 = "/3header.png";
+const carousel4 = "/4header.png";
+const carousel5 = "/5header.png";
 
 const Carousel = () => {
     const images: string[] = [

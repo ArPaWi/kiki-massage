@@ -1,4 +1,4 @@
-// File: /home/arya/Desktop/kiki-massage/app/layout.tsx
+// File: C:\Users\robit\OneDrive - Beefsteak Charlie\Desktop\kiki-massage\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
