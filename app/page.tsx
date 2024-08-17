@@ -59,8 +59,7 @@ export default function Home() {
           Layanan jasa massage murah dan profesional di bidang nya. Kami siap
           datang ke lokasi anda dan siap melayani anda kapan saja dan dimana
           saja. Layanan kami di jamin aman dan sudah terbukti keampuhan nya.
-          Jangan ragu untuk memesan layanan kami dan rasakan sensasinya sentuhan
-          lembut dengan manja.
+          Jangan ragu untuk memesan layanan kami.
         </p>
       </div>
 

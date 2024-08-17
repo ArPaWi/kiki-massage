@@ -30,7 +30,7 @@ export default function ActionAreaCard() {
             </Typography>
             <Typography variant="body2" color="text.secondary">
               Rasakan sentuhan lembut untuk melepaskan ketegangan tubuh dan
-              mengembalikan keseimbangan energi. Kelezatan bagi tubuh Anda.
+              mengembalikan keseimbangan energi.
             </Typography>
           </CardContent>
         </CardActionArea>
