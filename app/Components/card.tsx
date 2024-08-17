@@ -136,7 +136,7 @@ export default function ActionAreaCard() {
         </button>
       </Card>
 
-      <Card sx={{ maxWidth: 345 }}>
+      {/* <Card sx={{ maxWidth: 345 }}>
         <CardActionArea>
           <CardMedia
             component="img"
@@ -164,7 +164,7 @@ export default function ActionAreaCard() {
         >
           Pesan ➛
         </button>
-      </Card>
+      </Card> */}
 
       <Card sx={{ maxWidth: 345 }}>
         <CardActionArea>
