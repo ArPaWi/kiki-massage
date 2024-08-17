@@ -21,7 +21,7 @@ export default function ActionAreaCard() {
           <CardMedia
             component="img"
             height="100%"
-            image="/logo.png"
+            image="/logo_kiki.png"
             alt="Body Massage"
           />
           <CardContent>
@@ -51,7 +51,7 @@ export default function ActionAreaCard() {
           <CardMedia
             component="img"
             height="100%"
-            image="/logo.png"
+            image="/logo_kiki.png"
             alt="Body Massage dan Totok Wajah"
           />
           <CardContent>
@@ -81,7 +81,7 @@ export default function ActionAreaCard() {
           <CardMedia
             component="img"
             height="100%"
-            image="/logo.png"
+            image="/logo_kiki.png"
             alt="Body Massage dan Kerokan"
           />
           <CardContent>
@@ -111,7 +111,7 @@ export default function ActionAreaCard() {
           <CardMedia
             component="img"
             height="100%"
-            image="/logo.png"
+            image="/logo_kiki.png"
             alt="Body Massage dan Reflexi"
           />
           <CardContent>
@@ -141,15 +141,15 @@ export default function ActionAreaCard() {
           <CardMedia
             component="img"
             height="100%"
-            image="/logo.png"
-            alt="Body Massage dan Totok V"
+            image="/logo_kiki.png"
+            alt="Body Massage dan Terapi Kewanitaan"
           />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Body Massage dan Totok V
+              Body Massage dan Terapi Kewanitaan
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Harmoni sempurna antara pijat tubuh dan totok V untuk
+              Harmoni sempurna antara pijat tubuh dan terapi kewanitaan untuk
               membangkitkan vitalitas dan keseimbangan dalam tubuh Anda.
             </Typography>
           </CardContent>
@@ -171,7 +171,7 @@ export default function ActionAreaCard() {
           <CardMedia
             component="img"
             height="100%"
-            image="/logo.png"
+            image="/logo_kiki.png"
             alt="Body Massage dan Scrub"
           />
           <CardContent>
@@ -201,7 +201,7 @@ export default function ActionAreaCard() {
           <CardMedia
             component="img"
             height="100%"
-            image="/logo.png"
+            image="/logo_kiki.png"
             alt="Body Massage dan Totok Payudara"
           />
           <CardContent>

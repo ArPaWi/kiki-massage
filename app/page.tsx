@@ -9,7 +9,7 @@ import Pesan from "./Components/pesan";
 export default function Home() {
   const handleContactClick = () => {
     const whatsappLink =
-      "https://api.whatsapp.com/send?phone=6281210390991&text=Halo%20Kak%20Ela,%20saya%20ingin%20menanyakan%20perihal%20terapi.";
+      "https://api.whatsapp.com/send?phone=6281210390991&text=Halo%20Bapak%20Rizki,%20saya%20ingin%20menanyakan%20perihal%20terapi.";
     window.open(whatsappLink, "_blank");
   };
 
@@ -18,11 +18,11 @@ export default function Home() {
       <nav>
         <div className={styles.logo}>
           <img
-            src="/logo.png"
+            src="/logo_kiki.png"
             alt="Kiki Massage Logo"
             style={{
-              width: "35px",
-              height: "35px",
+              width: "70px",
+              height: "70px",
               borderRadius: "10px",
               paddingTop: "4px",
             }}
