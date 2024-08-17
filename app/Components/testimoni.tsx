@@ -2,27 +2,27 @@
 import React from "react";
 import { Slide } from "react-slideshow-image";
 import "react-slideshow-image/dist/styles.css";
-const testimoni1 = "/testimoni1.jpg";
-const testimoni2 = "/testimoni2.jpeg";
-const testimoni3 = "/testimoni3.jpeg";
+// const testimoni1 = "/testimoni1.jpg";
+// const testimoni2 = "/testimoni2.jpeg";
+// const testimoni3 = "/testimoni3.jpeg";
 
 // Daftar gambar testimoni
 const testimonialData = [
   {
-    image: testimoni1,
+    // image: testimoni1,
     nama: "Nia",
     rating: "⭐⭐⭐⭐⭐ Sangat Puas",
     caption:
       '"Setelah dua minggu ada perubahan, sekarang saya menjadi lebih percaya diri."',
   },
   {
-    image: testimoni2,
+    // image: testimoni2,
     nama: "Vani",
     rating: "⭐⭐⭐⭐⭐ Sangat Puas",
     caption: '"Hasil trapi bagus, terapis amanah dan profesional."',
   },
   {
-    image: testimoni3,
+    // image: testimoni3,
     nama: "Dea Amanda",
     rating: "⭐⭐⭐⭐ Puas",
     caption: '"Badan terasa lebih enak setelah terapi."',
@@ -36,7 +36,7 @@ const TestimonialSlider = () => {
     transitionDuration: 500,
     infinite: true,
     indicators: false,
-    arrows: true,
+    arrows: false,
   };
 
   const imagestyle = {
@@ -57,15 +57,15 @@ const TestimonialSlider = () => {
   };
 
   return (
-    <div style={{ width: "270px" }}>
+    <div style={{ width: "300px" }}>
       <Slide {...slideProperties}>
         {testimonialData.map((testimonial, index) => (
           <div key={index} className="each-slide">
-            <img
+            {/* <img
               src={testimonial.image}
               alt={`Testimoni ${index + 1}`}
               style={imagestyle}
-            />
+            /> */}
             <p style={namastyle}>{testimonial.nama}</p>
             <p style={ratingstyle}>{testimonial.rating}</p>
             <p style={captionstyle}>{testimonial.caption}</p>
