@@ -14,7 +14,7 @@ const Pesan: React.FC = () => {
     Reflexi: { "90": "195.000", "120": "250.000" },
     // "Totok V": { "90": "270.000", "120": "420.000" },
     Scrub: { "90": "195.000", "120": "250.000" },
-    "Totok Payudara": { "90": "270.000", "120": "420.000" },
+    // "Totok Payudara": { "90": "270.000", "120": "420.000" },
   };
 
   useEffect(() => {
@@ -159,7 +159,7 @@ Alamat Lengkap & Notes  : ${alamat}
         <option value="Reflexi">Body Massage dan Reflexi</option>
         {/* <option value="Totok V">Body Massage dan Totok V</option> */}
         <option value="Scrub">Body Massage dan Scrub</option>
-        <option value="Totok Payudara">Body Massage dan Totok Payudara</option>
+        {/* <option value="Totok Payudara">Body Massage dan Totok Payudara</option> */}
       </select>
       <br />
 
