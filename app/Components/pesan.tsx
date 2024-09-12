@@ -114,8 +114,8 @@ Tipe Pembayaran         : ${payment}
 Alamat Lengkap & Notes  : ${alamat}
 `;
 
-      // Mengirim pesan ke nomor WhatsApp : 6281210390991
-      const waNumber = "6281210390991"; // Ganti dengan nomor tujuan WhatsApp Anda
+      // Mengirim pesan ke nomor WhatsApp : 6287773294573
+      const waNumber = "6287773294573"; // Ganti dengan nomor tujuan WhatsApp Anda
       window.open(
         `https://wa.me/${waNumber}?text=${encodeURIComponent(message)}`,
         "_blank"

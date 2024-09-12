@@ -9,7 +9,7 @@ import Pesan from "./Components/pesan";
 export default function Home() {
   const handleContactClick = () => {
     const whatsappLink =
-      "https://api.whatsapp.com/send?phone=6281210390991&text=Halo%20Bapak%20Rizki,%20saya%20ingin%20menanyakan%20perihal%20terapi.";
+      "https://api.whatsapp.com/send?phone=6287773294573&text=Halo%20Bapak%20Rizki,%20saya%20ingin%20menanyakan%20perihal%20terapi.";
     window.open(whatsappLink, "_blank");
   };
 
@@ -154,7 +154,7 @@ export default function Home() {
               height: "10px",
             }}
           >
-            +62 812-1039-0991
+            +62 812-1039-0991 & +62 877-7329-4573
           </p>
         </div>
       </footer>
